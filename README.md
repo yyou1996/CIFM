@@ -11,7 +11,7 @@ More information about the model can be found in the [preprint](https://www.bior
 ![](./cifm.png)
 ![](./autoregressive.gif)
 
-## Checkpoints
+## Model Checkpoints
 - CIFM-100M [[huggingface]](https://huggingface.co/ynyou/CIFM)
 
 ## Citation
