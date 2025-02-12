@@ -8,11 +8,11 @@ The signature functions of CIFM are:
 
 More information about the model can be found in the [preprint](https://www.biorxiv.org/content/10.1101/2025.01.25.634867v1).
 
-## Checkpoints
-- CIFM-100M [[huggingface]](https://huggingface.co/ynyou/CIFM)
-
 ![](./cifm.png)
 ![](./autoregressive.gif)
+
+## Checkpoints
+- CIFM-100M [[huggingface]](https://huggingface.co/ynyou/CIFM)
 
 ## Citation
 If you use this code for you research, please cite our paper.
