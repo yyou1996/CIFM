@@ -1,7 +1,7 @@
 # CIFM: Cellular Interaction Foundation Model
 
 ## Overview
-CIFM is an AI model that can simulate the activities within a living tissue (AI virtual tissue).
+CIFM is an AI foundation model that can simulate the activities within living tissues (AI virtual tissue).
 The signature functions of CIFM are:
 - **Embedding** of celllular microenvironments via ```embeddings = model.embed(adata)``` (the 1st Figure below panel D top);
 - **Inference/simulation** of cellular gene expressions within a certain microenvironment via ```expressions = model.predict_cells_at_locations(adata, target_locs)``` (the 1st Figure below panel D bottom, and the 2nd Figure below).
